@@ -1,3 +1,6 @@
+##  JL Cardenas
+##  Author jluis.pcardenas@gmail.com
+
 import pygame
 import math
 import random
